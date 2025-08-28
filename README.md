@@ -53,7 +53,10 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </div>
+  <div align="center">
     <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white" />
   </div>
 
   ### 🚀 DevOps & Infrastructure
