@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Web+Security+Researcher;Problem+Solver;Code+Enthusiast;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
   <h2 align="center">🚀 I'm C0D3M0N (d0r43m0n)</h2>
 
